@@ -138,10 +138,10 @@
   },
   "jdx/mr-boxington": {
     "project": "github.com/jdx/mr-boxington",
-    "version": "1.12.0",
-    "publishedAt": "2026-09-15T22:01:48.167602182Z",
-    "manifestUrl": "https://github.com/jdx/mr-boxington/releases/download/v1.12.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/mr-boxington/releases/tag/v1.12.0",
+    "version": "1.14.0",
+    "publishedAt": "2026-09-18T14:25:13.792525254Z",
+    "manifestUrl": "https://github.com/jdx/mr-boxington/releases/download/v1.14.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/mr-boxington/releases/tag/v1.14.0",
     "publisher": "jdx",
     "capabilities": [
       {
