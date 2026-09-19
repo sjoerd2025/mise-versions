@@ -43,10 +43,10 @@
   },
   "jdx/communique": {
     "project": "github.com/jdx/communique",
-    "version": "1.4.0",
-    "publishedAt": "2026-09-11T21:57:36.353604909Z",
-    "manifestUrl": "https://github.com/jdx/communique/releases/download/v1.4.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/communique/releases/tag/v1.4.0",
+    "version": "1.4.1",
+    "publishedAt": "2026-09-19T10:16:03.988890938Z",
+    "manifestUrl": "https://github.com/jdx/communique/releases/download/v1.4.1/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/communique/releases/tag/v1.4.1",
     "publisher": "jdx",
     "capabilities": [
       {
@@ -168,10 +168,10 @@
   },
   "jdx/pitchfork": {
     "project": "github.com/jdx/pitchfork",
-    "version": "2.25.0",
-    "publishedAt": "2026-09-11T14:52:30.093729075Z",
-    "manifestUrl": "https://github.com/jdx/pitchfork/releases/download/v2.25.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/pitchfork/releases/tag/v2.25.0",
+    "version": "2.26.0",
+    "publishedAt": "2026-09-19T10:37:38.57339793Z",
+    "manifestUrl": "https://github.com/jdx/pitchfork/releases/download/v2.26.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/pitchfork/releases/tag/v2.26.0",
     "publisher": "jdx",
     "capabilities": [
       {
@@ -196,10 +196,10 @@
   },
   "jdx/usage": {
     "project": "github.com/jdx/usage",
-    "version": "6.9.1",
-    "publishedAt": "2026-09-14T11:25:10.603739623Z",
-    "manifestUrl": "https://github.com/jdx/usage/releases/download/v6.9.1/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/usage/releases/tag/v6.9.1",
+    "version": "6.10.0",
+    "publishedAt": "2026-09-19T13:40:27.611303617Z",
+    "manifestUrl": "https://github.com/jdx/usage/releases/download/v6.10.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/usage/releases/tag/v6.10.0",
     "publisher": "jdx",
     "capabilities": [
       {
