@@ -1,10 +1,10 @@
 {
   "aubepkg/aube": {
     "project": "github.com/aubepkg/aube",
-    "version": "2.2.17",
-    "publishedAt": "2026-09-15T16:44:57.931388591Z",
-    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.2.17/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.2.17",
+    "version": "2.3.0",
+    "publishedAt": "2026-09-22T20:11:53.549553801Z",
+    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.3.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.3.0",
     "publisher": "aubepkg",
     "capabilities": [],
     "platforms": [
@@ -22,10 +22,10 @@
   },
   "jdx/aube": {
     "project": "github.com/aubepkg/aube",
-    "version": "2.2.17",
-    "publishedAt": "2026-09-15T16:44:57.931388591Z",
-    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.2.17/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.2.17",
+    "version": "2.3.0",
+    "publishedAt": "2026-09-22T20:11:53.549553801Z",
+    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.3.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.3.0",
     "publisher": "aubepkg",
     "capabilities": [],
     "platforms": [
@@ -104,10 +104,10 @@
   },
   "jdx/hk": {
     "project": "github.com/jdx/hk",
-    "version": "2.0.1",
-    "publishedAt": "2026-09-15T18:57:33.139352264Z",
-    "manifestUrl": "https://github.com/jdx/hk/releases/download/v2.0.1/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/hk/releases/tag/v2.0.1",
+    "version": "2.1.0",
+    "publishedAt": "2026-09-23T10:29:23.766575296Z",
+    "manifestUrl": "https://github.com/jdx/hk/releases/download/v2.1.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/hk/releases/tag/v2.1.0",
     "publisher": "jdx",
     "capabilities": [
       {
@@ -138,10 +138,10 @@
   },
   "jdx/mr-boxington": {
     "project": "github.com/jdx/mr-boxington",
-    "version": "1.15.0",
-    "publishedAt": "2026-09-20T01:25:19.156115665Z",
-    "manifestUrl": "https://github.com/jdx/mr-boxington/releases/download/v1.15.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/mr-boxington/releases/tag/v1.15.0",
+    "version": "1.16.0",
+    "publishedAt": "2026-09-23T11:08:21.965417246Z",
+    "manifestUrl": "https://github.com/jdx/mr-boxington/releases/download/v1.16.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/mr-boxington/releases/tag/v1.16.0",
     "publisher": "jdx",
     "capabilities": [
       {
