@@ -1,10 +1,10 @@
 {
   "aubepkg/aube": {
     "project": "github.com/aubepkg/aube",
-    "version": "2.4.0",
-    "publishedAt": "2026-09-25T03:04:19.753758098Z",
-    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.4.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.4.0",
+    "version": "2.5.0",
+    "publishedAt": "2026-09-27T02:07:06.914425128Z",
+    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.5.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.5.0",
     "publisher": "aubepkg",
     "capabilities": [],
     "platforms": [
@@ -22,10 +22,10 @@
   },
   "jdx/aube": {
     "project": "github.com/aubepkg/aube",
-    "version": "2.4.0",
-    "publishedAt": "2026-09-25T03:04:19.753758098Z",
-    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.4.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.4.0",
+    "version": "2.5.0",
+    "publishedAt": "2026-09-27T02:07:06.914425128Z",
+    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.5.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.5.0",
     "publisher": "aubepkg",
     "capabilities": [],
     "platforms": [
@@ -104,10 +104,10 @@
   },
   "jdx/hk": {
     "project": "github.com/jdx/hk",
-    "version": "2.2.0",
-    "publishedAt": "2026-09-25T00:34:38.495382807Z",
-    "manifestUrl": "https://github.com/jdx/hk/releases/download/v2.2.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/hk/releases/tag/v2.2.0",
+    "version": "2.3.1",
+    "publishedAt": "2026-09-27T14:37:43.511290849Z",
+    "manifestUrl": "https://github.com/jdx/hk/releases/download/v2.3.1/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/hk/releases/tag/v2.3.1",
     "publisher": "jdx",
     "capabilities": [
       {
@@ -168,10 +168,10 @@
   },
   "jdx/pitchfork": {
     "project": "github.com/jdx/pitchfork",
-    "version": "2.27.0",
-    "publishedAt": "2026-09-19T23:41:22.089011266Z",
-    "manifestUrl": "https://github.com/jdx/pitchfork/releases/download/v2.27.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/pitchfork/releases/tag/v2.27.0",
+    "version": "2.28.0",
+    "publishedAt": "2026-09-27T10:40:40.010442776Z",
+    "manifestUrl": "https://github.com/jdx/pitchfork/releases/download/v2.28.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/pitchfork/releases/tag/v2.28.0",
     "publisher": "jdx",
     "capabilities": [
       {
