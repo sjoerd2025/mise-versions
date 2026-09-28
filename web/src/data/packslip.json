@@ -1,10 +1,10 @@
 {
   "aubepkg/aube": {
     "project": "github.com/aubepkg/aube",
-    "version": "2.5.0",
-    "publishedAt": "2026-09-27T02:07:06.914425128Z",
-    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.5.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.5.0",
+    "version": "2.5.1",
+    "publishedAt": "2026-09-27T16:39:28.679802439Z",
+    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.5.1/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.5.1",
     "publisher": "aubepkg",
     "capabilities": [],
     "platforms": [
@@ -22,10 +22,10 @@
   },
   "jdx/aube": {
     "project": "github.com/aubepkg/aube",
-    "version": "2.5.0",
-    "publishedAt": "2026-09-27T02:07:06.914425128Z",
-    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.5.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.5.0",
+    "version": "2.5.1",
+    "publishedAt": "2026-09-27T16:39:28.679802439Z",
+    "manifestUrl": "https://github.com/aubepkg/aube/releases/download/v2.5.1/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/aubepkg/aube/releases/tag/v2.5.1",
     "publisher": "aubepkg",
     "capabilities": [],
     "platforms": [
@@ -73,10 +73,10 @@
   },
   "jdx/fnox": {
     "project": "github.com/jdx/fnox",
-    "version": "1.35.3",
-    "publishedAt": "2026-09-21T10:22:22.772248343Z",
-    "manifestUrl": "https://github.com/jdx/fnox/releases/download/v1.35.3/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/fnox/releases/tag/v1.35.3",
+    "version": "1.36.0",
+    "publishedAt": "2026-09-28T10:23:57.373053657Z",
+    "manifestUrl": "https://github.com/jdx/fnox/releases/download/v1.36.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/fnox/releases/tag/v1.36.0",
     "publisher": "jdx",
     "capabilities": [
       {
@@ -86,6 +86,10 @@
       {
         "label": "Usage CLI spec",
         "detail": "Enables generated completions and documentation"
+      },
+      {
+        "label": "Agent skills",
+        "detail": "Instructions for coding agents"
       }
     ],
     "platforms": [
@@ -104,10 +108,10 @@
   },
   "jdx/hk": {
     "project": "github.com/jdx/hk",
-    "version": "2.3.1",
-    "publishedAt": "2026-09-27T14:37:43.511290849Z",
-    "manifestUrl": "https://github.com/jdx/hk/releases/download/v2.3.1/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/hk/releases/tag/v2.3.1",
+    "version": "2.4.0",
+    "publishedAt": "2026-09-28T02:53:00.830004956Z",
+    "manifestUrl": "https://github.com/jdx/hk/releases/download/v2.4.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/hk/releases/tag/v2.4.0",
     "publisher": "jdx",
     "capabilities": [
       {
@@ -138,10 +142,10 @@
   },
   "jdx/mr-boxington": {
     "project": "github.com/jdx/mr-boxington",
-    "version": "1.18.0",
-    "publishedAt": "2026-09-25T17:46:16.424913179Z",
-    "manifestUrl": "https://github.com/jdx/mr-boxington/releases/download/v1.18.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/mr-boxington/releases/tag/v1.18.0",
+    "version": "1.20.0",
+    "publishedAt": "2026-09-28T18:14:23.246310557Z",
+    "manifestUrl": "https://github.com/jdx/mr-boxington/releases/download/v1.20.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/mr-boxington/releases/tag/v1.20.0",
     "publisher": "jdx",
     "capabilities": [
       {
@@ -151,6 +155,10 @@
       {
         "label": "Usage CLI spec",
         "detail": "Enables generated completions and documentation"
+      },
+      {
+        "label": "Agent skills",
+        "detail": "Instructions for coding agents"
       }
     ],
     "platforms": [
@@ -226,10 +234,10 @@
   },
   "jdx/usage": {
     "project": "github.com/jdx/usage",
-    "version": "6.11.1",
-    "publishedAt": "2026-09-23T15:18:52.581867264Z",
-    "manifestUrl": "https://github.com/jdx/usage/releases/download/v6.11.1/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/usage/releases/tag/v6.11.1",
+    "version": "6.12.0",
+    "publishedAt": "2026-09-28T18:01:14.805934357Z",
+    "manifestUrl": "https://github.com/jdx/usage/releases/download/v6.12.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/usage/releases/tag/v6.12.0",
     "publisher": "jdx",
     "capabilities": [
       {
@@ -239,6 +247,10 @@
       {
         "label": "Usage CLI spec",
         "detail": "Enables generated completions and documentation"
+      },
+      {
+        "label": "Agent skills",
+        "detail": "Instructions for coding agents"
       },
       {
         "label": "Man pages",
@@ -256,5 +268,73 @@
     "binaries": ["usage", "usage.exe"],
     "artifactCount": 7,
     "provenanceCount": 7
+  },
+  "max-sixty/worktrunk": {
+    "project": "github.com/max-sixty/worktrunk",
+    "version": "0.80.0",
+    "publishedAt": "2026-09-27T21:18:42.368820288Z",
+    "manifestUrl": "https://github.com/max-sixty/worktrunk/releases/download/v0.80.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/max-sixty/worktrunk/releases/tag/v0.80.0",
+    "publisher": "max-sixty",
+    "capabilities": [
+      {
+        "label": "Shell completions",
+        "detail": "bash · zsh · fish · powershell"
+      },
+      {
+        "label": "Agent skills",
+        "detail": "Instructions for coding agents"
+      }
+    ],
+    "platforms": [
+      "Linux / aarch64 / musl",
+      "Linux / x86_64 / musl",
+      "Windows / x86_64",
+      "macOS / aarch64",
+      "macOS / x86_64"
+    ],
+    "binaries": [
+      "git-wt.exe",
+      "worktrunk-aarch64-apple-darwin/git-wt",
+      "worktrunk-aarch64-apple-darwin/wt",
+      "worktrunk-aarch64-unknown-linux-musl/git-wt",
+      "worktrunk-aarch64-unknown-linux-musl/wt",
+      "worktrunk-x86_64-apple-darwin/git-wt",
+      "worktrunk-x86_64-apple-darwin/wt",
+      "worktrunk-x86_64-unknown-linux-musl/git-wt",
+      "worktrunk-x86_64-unknown-linux-musl/wt",
+      "wt.exe"
+    ],
+    "artifactCount": 5,
+    "provenanceCount": 5
+  },
+  "stefanprodan/timoni": {
+    "project": "github.com/stefanprodan/timoni",
+    "version": "0.35.0",
+    "publishedAt": "2026-09-28T13:27:11.825617163Z",
+    "manifestUrl": "https://github.com/stefanprodan/timoni/releases/download/v0.35.0/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/stefanprodan/timoni/releases/tag/v0.35.0",
+    "publisher": "stefanprodan",
+    "capabilities": [
+      {
+        "label": "Shell completions",
+        "detail": "bash · zsh · fish · powershell"
+      },
+      {
+        "label": "Agent skills",
+        "detail": "Instructions for coding agents"
+      }
+    ],
+    "platforms": [
+      "Linux / aarch64",
+      "Linux / x86_64",
+      "Windows / aarch64",
+      "Windows / x86_64",
+      "macOS / aarch64",
+      "macOS / x86_64"
+    ],
+    "binaries": ["timoni", "timoni.exe"],
+    "artifactCount": 6,
+    "provenanceCount": 6
   }
 }
