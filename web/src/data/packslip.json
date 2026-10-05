@@ -169,10 +169,10 @@
   },
   "jdx/fnox": {
     "project": "github.com/jdx/fnox",
-    "version": "1.36.0",
-    "publishedAt": "2026-09-28T10:23:57.373053657Z",
-    "manifestUrl": "https://github.com/jdx/fnox/releases/download/v1.36.0/packslip.sigstore.json",
-    "releaseUrl": "https://github.com/jdx/fnox/releases/tag/v1.36.0",
+    "version": "1.38.1",
+    "publishedAt": "2026-10-05T06:22:55.113009719Z",
+    "manifestUrl": "https://github.com/jdx/fnox/releases/download/v1.38.1/packslip.sigstore.json",
+    "releaseUrl": "https://github.com/jdx/fnox/releases/tag/v1.38.1",
     "publisher": "jdx",
     "capabilities": [
       {
